@@ -1,0 +1,37 @@
+.intro{
+    background-color: palevioletred;
+    height:110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 50%;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: underline overline;
+    box-shadow: 10px 10px grey;
+}
+
+.two{
+
+    font-family: "dancing script", cursive;
+    color: palevioletred;
+    text-align: center;
+    font-size: 80px;
+}
+
+.background{
+    background: antiquewhite;
+    padding-top: 144px;
+    padding-bottom: 144px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    margin-top: 80px;
+    width: 70%;
+    box-shadow: 10px 10px grey;
+}
